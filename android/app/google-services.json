@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "134601162501",
+    "project_id": "meditasi-e13f1",
+    "storage_bucket": "meditasi-e13f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134601162501:android:9cb48ccda4e4cd659dc16c",
+        "android_client_info": {
+          "package_name": "com.example.meditasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFqXin-YJ5-mLIUVtNxBPR3AV5UB0UL8Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
